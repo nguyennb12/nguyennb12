@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
 
