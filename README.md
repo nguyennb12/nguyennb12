@@ -65,7 +65,8 @@
   </a>
 </p>
 
-<img src="[https://github.com/user-attachments/assets/d1cc0298-2e83-48c7-97d0-680722a49162)" width="400" alt="giphy"/>
+
+![giphy (1)](https://github.com/user-attachments/assets/7aea3523-b305-499e-a756-ffa1cd3f54a5)
 
 
 
