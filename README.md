@@ -4,8 +4,6 @@
 
 [🌐 Portfolio Website](#)
 
----
-
 ## 🖧 **Backend**  
 <table>
   <tr>
@@ -29,8 +27,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🖥️ **Frontend**  
 <table>
@@ -62,8 +58,6 @@
   </tr>
 </table>
 
----
-
 ## 🗄️ **Database and Tools**  
 <table>
   <tr>
@@ -93,8 +87,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 📫 **Connect**  
 <table>
