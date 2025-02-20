@@ -1,11 +1,8 @@
 <div align="center">
-
 # 👋 **Hi, I'm Brian Nguyen!**  
 🚀 Third-year Software Engineering Technologies student at Conestoga College  
 💻 Passionate about full-stack development & building scalable solutions.
-
 ---
-
 ## 🛠️ **Skills**  
 <p align="center">
   <!-- Frontend -->
