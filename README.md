@@ -18,6 +18,9 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50"/>
+  </a>
 </p>
 
 ## 🖥️ **Frontend**  
