@@ -66,8 +66,6 @@
 </p>
 
 
-![giphy (1)](https://github.com/user-attachments/assets/7aea3523-b305-499e-a756-ffa1cd3f54a5)
-
 
 
 
