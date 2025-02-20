@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td align="left" width="70%">
-
 # 👋 **Hi, I'm Brian Nguyen!**  
 🚀 Third-year Software Engineering Technologies student at Conestoga College  
 💻 Passionate about full-stack development & building scalable solutions.
@@ -23,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
 
@@ -69,9 +65,10 @@
   </a>
 </p>
 
-    </td>
-    <td align="right" width="30%">
-      <img src="https://github.com/user-attachments/assets/7aea3523-b305-499e-a756-ffa1cd3f54a5" width="250" alt="GIF"/>
-    </td>
-  </tr>
-</table>
+
+![giphy (1)](https://github.com/user-attachments/assets/7aea3523-b305-499e-a756-ffa1cd3f54a5)
+
+
+
+
+
