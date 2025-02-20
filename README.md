@@ -1,18 +1,46 @@
-<h1 align="center">Hi 👋,I'm Brian Nguyen</h1>
-<h3 align="center">🚀 Third-year Software Engineering Technologies student at Conestoga College 💻 Passionate about backend and frontend web development, with a drive for creating innovative and scalable solutions.</h3>
+# 👋 Hi, I'm Brian Nguyen!  
+🚀 **Third-year Software Engineering Technologies student at Conestoga College**  
+💻 Passionate about backend and front-end web development, with a drive for creating innovative and scalable solutions.
 
-- 🔭 I’m currently working on [💬 Real-time Chat Application](https://github.com/nguyennb12/Real-chat)
+---
 
-- 📫 How to reach me **nguyennbrian123@gmail.com**
+## 🧩 About Me  
+I’m a software engineering student with a love for building solutions that make an impact. I enjoy both backend and frontend development, constantly seeking new challenges to sharpen my skills. I believe in clean code, user-centric design, and continuous learning.  
 
-- ⚡ Fun fact **I love playing Golf, Basketball and Coding**
+🔑 **Key interests:**  
+- Backend Development (Python, Node.js)  
+- Frontend Development (React, HTML, CSS)  
+- Full-stack Web Applications  
+- Problem-solving & Data Structures  
+- Machine Learning (currently exploring)  
 
-## 🌍 **Portfolio Website**  
-[Coming Soon 🚀]()
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/brian-pnguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/brian-pnguyen" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💼 Projects  
+
+### 🌦️ [Weather App](#)  
+A web application providing real-time weather updates with an intuitive UI and responsive design.  
+
+### 🛡️ Celebsafe *(Capstone Project)*  
+A secure platform for the Film/TV industry with end-to-end encrypted communication, tiered access, and a job search feature.  
+
+### 🖥️ [Portfolio Website](#)  
+This website! Built with React, showcasing my work and skills.  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+- **Languages:** Python, JavaScript, C, C++  
+- **Frameworks:** React, Node.js, Express  
+- **Databases:** PostgreSQL  
+- **Tools:** Git, Docker, CodeQL, Pylint  
+- **Other:** Signal Protocol (for secure communication)  
+
+---
+
+## 📫 Get in Touch  
+- 🌐 [LinkedIn](#)  
+- 💻 [GitHub](#)  
+- ✉️ [Email](mailto:#)  
+
+Let’s connect and build something awesome! 🚀
