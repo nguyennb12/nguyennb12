@@ -2,8 +2,6 @@
 🚀 Third-year Software Engineering Technologies student at Conestoga College  
 💻 Passionate about full-stack development & building scalable solutions.
 
----
-
 ## 🖧 **Backend**  
 <table>
   <tr>
@@ -27,8 +25,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 🖥️ **Frontend**  
 <table>
@@ -60,8 +56,6 @@
   </tr>
 </table>
 
----
-
 ## 🗄️ **Database and Tools**  
 <table>
   <tr>
@@ -91,8 +85,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 📫 **Connect**  
 <table>
