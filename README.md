@@ -1,10 +1,8 @@
 # 👋 **Hi, I'm Brian Nguyen!**  
 🚀 Third-year Software Engineering Technologies student at Conestoga College  
-💻 Passionate about full-stack development & building scalable solutions.  
+💻 Passionate about full-stack development & building scalable solutions.
 
-[🌐 Portfolio Website]()
-
-
+---
 
 ## 🖧 **Backend**  
 <table>
@@ -29,6 +27,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 🖥️ **Frontend**  
 <table>
@@ -60,6 +60,8 @@
   </tr>
 </table>
 
+---
+
 ## 🗄️ **Database and Tools**  
 <table>
   <tr>
@@ -89,6 +91,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 📫 **Connect**  
 <table>
