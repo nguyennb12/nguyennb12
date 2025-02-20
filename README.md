@@ -4,8 +4,6 @@
 
 [🌐 Portfolio Website](#)
 
----
-
 ## 🖧 **Backend**  
 <p align="left">
   <a href="https://nodejs.org" target="_blank">
@@ -18,8 +16,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
   </a>
 </p>
-
----
 
 ## 🖥️ **Frontend**  
 <p align="left">
@@ -37,8 +33,6 @@
   </a>
 </p>
 
----
-
 ## 🗄️ **Database and Tools**  
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
@@ -54,8 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50"/>
   </a>
 </p>
-
----
 
 ## 📫 **Connect**  
 <p align="left">
