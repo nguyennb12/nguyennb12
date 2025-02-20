@@ -65,8 +65,8 @@
   </a>
 </p>
 
+![giphy](https://github.com/user-attachments/assets/eed15f23-9cc8-4a1e-b92c-bd47e537f0f8)
 
-![coding-scaler](https://github.com/user-attachments/assets/fa4743f3-a48b-4176-954a-661320b94c9f)
 
 
 
