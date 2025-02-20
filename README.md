@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
+  <img src="[https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png](https://imgs.search.brave.com/dx4-Vi0AuelZB2AOQfP_p_Y5dX_YhAuV63CYETNsbZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWItcHJvZHVjdGlv/bi11c2VyLWFzc2V0/LTYyMTBkZi5zMy5h/bWF6b25hd3MuY29t/LzUxMDcwMTA0LzI2/ODU2MDEyNi0wMjc0/ZjEyZC1iYTk2LTQz/Y2MtOWUwZC1hOWVh/Zjc5MWU3YzAucG5n)" alt="FastAPI" width="50"/>
 </a>
 </p>
 
