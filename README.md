@@ -1,4 +1,4 @@
-# 👋 **Hi, I'm Brian Nguyen!**  
+# 👋 **Hey there, Great to see you!**  
 ## 🚀 Third-year Cpmputer Science Student  
 ## 💻 Passionate about full-stack development & building scalable solutions.
 
