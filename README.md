@@ -1,5 +1,5 @@
 # 👋 **Hi, I'm Brian Nguyen!**  
-## 🚀 Third-year Software Engineering Technologies student at Conestoga College  
+## 🚀 Third-year Cpmputer Science Student  
 ## 💻 Passionate about full-stack development & building scalable solutions.
 
 [🌐 Portfolio Website](https://nguyennb12.github.io/Portfolio/#home)
