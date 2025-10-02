@@ -1,5 +1,5 @@
 # 👋 **Hey there, Great to see you!**  
-## 🚀 Third-year Cpmputer Science Student  
+## 🚀 I'm a Third-year Computer Science Student  
 ## 💻 Passionate about full-stack development & building scalable solutions.
 
 [🌐 Portfolio Website](https://nguyennb12.github.io/Portfolio/#home)
