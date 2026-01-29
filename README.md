@@ -2,7 +2,7 @@
 ## 🚀 I'm a Third-year Computer Science Student  
 ## 💻 Passionate about full-stack development & building scalable solutions.
 
-[🌐 Portfolio Website](https://nguyennb12.github.io/Portfolio/#home)
+[🌐 Portfolio Website](nguyennb-tech.dev)
 
 ## 🖧 **Backend**  
 <p align="left">
